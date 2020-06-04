@@ -21,8 +21,15 @@ body {
 
 .btn{
   margin-right: 1em;
+  margin-bottom: 1em;
 }
 
 * {
   font-family: 'Cabin', sans-serif;
+  font-size: medium;
+}
+
+.logo {
+  max-width:15%;
+  height:auto;
 }
